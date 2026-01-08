@@ -1,0 +1,2 @@
+# requirements.txt
+# Uses only the Python standard library (sqlite3); included for completeness.
